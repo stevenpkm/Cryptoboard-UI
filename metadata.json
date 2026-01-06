@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Dashboard v1",
+  "description": "A high-performance crypto tracking dashboard featuring real-time (mocked) data, category heatmaps, and customizable watchlists.",
+  "requestFramePermissions": []
+}
